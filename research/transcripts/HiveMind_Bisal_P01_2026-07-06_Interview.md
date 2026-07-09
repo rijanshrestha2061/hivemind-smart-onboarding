@@ -4,7 +4,7 @@
 **Interview Type:** Smart Onboarding Research Interview  
 **Date:** [5/07/2026]  
 **Duration:** Approximately 30 minutes  
-**Interviewer:** Anonymous Student Researcher  
+**Interviewer:** Bishal Basnet  
 **Participant:** P01
 
 ---
