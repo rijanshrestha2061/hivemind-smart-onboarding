@@ -1,4 +1,3 @@
-
 INTERVIEW TRANSCRIPT 
 Participant ID: P01  
 Interview Type: Smart Onboarding Research Interview  
