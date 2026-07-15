@@ -9,7 +9,6 @@
 
 ---
 
-## Introduction and Consent
 
 **[00:00] Interviewer:** Thanks for joining. This is a university project with HiveMind about improving workplace onboarding and how people find information at work. It's not a sales call—I'm just learning from your experience. With your permission, I'll record this so I can write a transcript, and I'll remove your name and keep it anonymous. Is it okay if I record?
 
@@ -19,7 +18,7 @@
 
 ---
 
-# Section A – Role and Company Context
+
 
 **[01:10] Interviewer:** What's your current job role?
 
@@ -28,10 +27,6 @@
 **[01:20] Interviewer:** Roughly how big is the company?
 
 **[01:22] Participant P01:** Around 700 people, so the 201–1,000 range.
-
----
-
-# Section B – Work and Recent Onboarding
 
 **[03:00] Interviewer:** Think about the last time you started a job or changed teams. What did the first days or weeks look like?
 
@@ -45,9 +40,6 @@
 
 **[05:23] Participant P01:** Mostly box-ticking. The HR sessions covered company policies, but they didn't really help me understand my day-to-day design work.
 
----
-
-# Section C – Finding Information at Work
 
 **[08:00] Interviewer:** When you need an answer at work, where do you go first?
 
@@ -61,10 +53,6 @@
 
 **[10:35] Participant P01:** My current tasks, project deadlines, the latest design files, and a list of who to contact for different products or design questions.
 
----
-
-# Section D – Starting a Job / Smart Onboarding
-
 **[14:00] Interviewer:** On your first day, what would have made you feel less lost?
 
 **[14:04] Participant P01:** A simple checklist showing what to do each day, which tools to learn first, and who I should meet during the first week.
@@ -73,9 +61,6 @@
 
 **[15:25] Participant P01:** Regular feedback from my manager during weekly check-ins. That helped me understand whether I was meeting expectations.
 
----
-
-# Section E – AI Helper Trust
 
 **[19:00] Interviewer:** Have you used AI tools at work, like chatbots or Copilot-style tools?
 
@@ -85,9 +70,6 @@
 
 **[20:14] Participant P01:** If it linked to the official design documentation or company policies so I could check the source myself.
 
----
-
-# Section F – Wrap-up
 
 **[28:10] Interviewer:** What were the top two problems you mentioned today?
 
@@ -99,6 +81,3 @@
 
 **[29:45] Interviewer:** That's really helpful. Thank you so much for your time.
 
----
-
-# End of Transcript
