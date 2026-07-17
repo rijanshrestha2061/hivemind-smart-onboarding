@@ -51,7 +51,6 @@ Rather than having the same content for all, I would be getting onboarding tailo
 [23:20] Participant P01: No. I'd have to ask my manager quite a bit. A weekly roadmap with suggested learning and anticipated future steps would have alleviated much of the uncertainty. 
 [24:30] Interviewer: What did you find you were doing well? 
 [24:40] Participant P01: Tackled small tasks and got feedback from older designers, as well as successfully contributing to my first project involving AI. Those milestones made me feel I was becoming productive. 
-AI in the Workplace 
 [26:00] Interviewer: Did you regularly use AI tools in your work? 
 [26:10] Participant P01: Yes. I leverage AI on a daily basis to brainstorm wireframe ideas, to summarize lengthy documents, to analyse user feedback, to generate meeting notes, and to enhance design copy. 
 [27:30] Interviewer: What would you like to see in an AI-generated answer that you would appreciate and feel confident? 
