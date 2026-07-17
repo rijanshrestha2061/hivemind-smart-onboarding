@@ -73,6 +73,6 @@ AI in the Workplace
 Secondly, induction is not tailored. Onboarding content is nearly identical, but varies by role. 
 [39:00] Interviewer: What else would you like to say that we haven't talked about today? 
 [39:10] Participant P01: Just that onboarding shouldn't end after the first week. It should also be ongoing for the first month or beyond, depending on how comfortable the employees are in their new job. AI can definitely help, but only if it's transparent, trustworthy, and based on accurate information. 
-[39:50] Interviewer:Many thanks for sharing your experiences today. Thank you for your feedback - it has been extremely helpful and will support our understanding of the ways in which onboarding and information discovery in the workplace might be improved. 
+[39:50] Interviewer: Many thanks for sharing your experiences today. Thank you for your feedback - it has been extremely helpful and will support our understanding of the ways in which onboarding and information discovery in the workplace might be improved. 
 [40:00] Participant P01: You're very welcome. It was a great chat and I hope the results of this help to improve the onboarding of future employees.  
                  
