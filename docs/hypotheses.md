@@ -1,10 +1,5 @@
 # Hypotheses — Smart Onboarding (grounded in real interviews)
 
-Derived from `research-synthesis.md` (6 interviews: P01, P02, P03, P05, P06, P07).
-Feasibility tags added by Bishal Basnet, Technical/Feasibility Lead.
-
----
-
 ## Hypothesis 1 — Guided Day 1 checklist
 
 We believe that a personalised, prioritised Day 1 checklist will help new starters know what to focus on first, because P02, P05, and P06 all described being given equal-weight access to many systems with no explanation of what mattered most.
