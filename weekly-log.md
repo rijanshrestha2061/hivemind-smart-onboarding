@@ -1,1 +1,21 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Reviewed all 5 hypotheses for technical feasibility, tagged each — Bishal — 45 minutes
