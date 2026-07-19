@@ -1,4 +1,4 @@
-**Participant ID: P06
+Participant ID: P06
 Interview Type: Smart Onboarding Research Interview
 Date: 03 July 2026
 Duration: Approximately 30 minutes
