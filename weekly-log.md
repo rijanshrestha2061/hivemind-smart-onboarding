@@ -3,7 +3,7 @@
 ## Week 1
 
 ### Completed
-- Reviewed all 6 group interview transcripts (P01, P02, P03, P05, P06, P07) for technical feasibility — Bishal — 19 July 2026 — 1.5 hours
+- Reviewed all 6 group interview transcripts (P01, P02, P03, P04, P05, P06) for technical feasibility — Bishal — 19 July 2026 — 1.5 hours
 - Synthesised 8 recurring pain-point themes across all transcripts, saved to `research/synthesis/research-synthesis.md` — Bishal — 19 July 2026 — 1 hour
 - Rewrote group hypotheses to cite specific interview evidence, replacing placeholder examples, saved to `docs/hypotheses.md` — Bishal — 19 July 2026 — 45 minutes
 - Identified a 6th hypothesis (H6 — transparent, source-cited AI support) that emerged independently across all 6 interviews — Bishal — 19 July 2026
