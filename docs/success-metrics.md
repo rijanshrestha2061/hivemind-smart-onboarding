@@ -13,7 +13,7 @@
    (Tests H4 — addresses P02/P06's "didn't know who to ask" pain point)
 
 5. **Do new starters rate role-specific content as more useful than generic training in a post-task survey?**
-   (Tests H5 — addresses P02/P06/P07's "box-ticking" feedback)
+   (Tests H5 — addresses P02/P06/P04's "box-ticking" feedback)
 
 6. **When shown an AI-generated answer, can users correctly identify its source and last-updated date?**
    (Tests H6 — addresses the universal AI-trust requirement across all 6 participants)
