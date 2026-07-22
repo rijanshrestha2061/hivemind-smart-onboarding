@@ -26,7 +26,7 @@ We believe that surfacing the right contact for each task will reduce time lost 
 
 ## Hypothesis 5 — Role-specific content over generic training
 
-We believe that role-specific onboarding content will feel more useful than generic training, because P02, P06, and P07 all separately described mandatory compliance training as necessary but disconnected from their actual day-to-day work.
+We believe that role-specific onboarding content will feel more useful than generic training, because P02, P06, and P04 all separately described mandatory compliance training as necessary but disconnected from their actual day-to-day work.
 
 [Feasibility: MEDIUM–HIGH — needs real content variation per role, ideally driven by a data structure. Mock with 1–2 hardcoded role variants for a demo rather than a full system.]
 
