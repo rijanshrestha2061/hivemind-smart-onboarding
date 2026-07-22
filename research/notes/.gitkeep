@@ -1,1 +1,15 @@
 
+# Pain Points — Smart Onboarding 
+
+From 6 interviews: P01, P02, P03, P05, P06, P07. Mapped to the 4 updated hypotheses.
+
+1. Information is scattered across too many systems (Confluence, Teams, SharePoint, ServiceNow, email, wiki) with no single source of truth. — **H2**
+2. Multiple versions of the same document exist, with no clear way to tell which is current. — **H2**
+3. New starters are given access to many systems on Day 1 with no explanation of what's most important. — **H1**
+4. Mandatory compliance training feels generic and disconnected from actual day-to-day work. — **H4**
+5. New starters often don't know who to ask for help, or worry about asking the wrong person. — **H3**
+6. No visible progress tracker — new starters sometimes finish their checklist without knowing what to do next. — **H1**
+7. Manager check-ins, where they happened, were the most valued form of support. — **H1 / H3**
+8. AI tools are used for personal productivity, but not trusted for company-specific answers unless the source and last-updated date are shown. — **H3**
+9. HR, salary, disciplinary, and legal matters should always involve a human, not AI. — **H3**
+10. Personal systems for tracking information (OneNote, bookmarks, folders) become outdated quickly as documents change. — **H2**
