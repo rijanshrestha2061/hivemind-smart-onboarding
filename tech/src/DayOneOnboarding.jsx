@@ -3,11 +3,17 @@ import { CheckCircle2, Circle, HelpCircle, ChevronRight, Sparkles } from "lucide
 
 /**
  * DayOneOnboarding — Smart Onboarding technical slice
- * Covers Hypotheses 1, 2, and 4 from docs/hypotheses.md
+ * Covers Hypothesis 1 (fully) and Hypothesis 3 (partially) from docs/hypotheses.md
  *
- * H1 (Guided first steps)  -> task checklist
- * H2 (Progress visibility)  -> progress tracker
- * H4 (Contextual support)   -> per-task help/contact panel
+ * H1 (Guided first steps + progress visibility) -> task checklist + progress tracker
+ * H3 (Trustworthy, contextual support)           -> per-task help/contact panel
+ *    Note: only the "who to ask" half of H3 is built here. The AI-assistant
+ *    half of H3 (source-cited answers) is not included in this slice — see
+ *    tech/README.md for details.
+ *
+ * Not covered by this slice: H2 (centralised information hub), H4 (role-specific
+ * content) — both flagged as too broad for a Week 3 code slice, represented in
+ * Figma only with static sample data.
  *
  * Palette (project design system):
  *   Primary accent:     #0F6E56 (teal)
@@ -108,14 +114,14 @@ export default function DayOneOnboarding() {
           Day 1 · Smart Onboarding
         </p>
         <h1 className="mt-1 text-2xl font-semibold text-slate-900">
-          Welcome, Bishal👋
+          Welcome, Christoph 👋
         </h1>
         <p className="mt-1 text-sm text-slate-500">
           Here's what to focus on today. Tap a task for help.
         </p>
       </header>
 
-      {/* H2 — Progress visibility */}
+      {/* H1 — Progress visibility (merged into guided first steps) */}
       <div className="mb-6 rounded-xl border border-slate-200 bg-white p-4">
         <div className="mb-2 flex items-center justify-between text-sm">
           <span className="font-medium text-slate-700">
@@ -146,7 +152,7 @@ export default function DayOneOnboarding() {
           ))}
         </ul>
 
-        {/* H4 — Contextual support */}
+        {/* H3 — Contextual support (who to ask) */}
         <div className="sm:col-span-2 rounded-xl border border-slate-200 bg-slate-50 p-4 h-fit sticky top-4">
           <div className="mb-2 flex items-center gap-2 text-slate-700">
             <HelpCircle className="h-4 w-4" />
@@ -167,4 +173,3 @@ export default function DayOneOnboarding() {
     </div>
   );
 }
-
