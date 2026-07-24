@@ -1,1 +1,77 @@
 
+#  Low-Fidelity Wireframes — Smart Onboarding 
+Structural sketches only — grey boxes and labels, no colour/branding.
+
+## Screen 1 — Home / Day 1 (supports Task 1 — H1)
+
+[Page title: My Onboarding — Day 1]
+[Side nav: Overview | Day 1 | Week 1 | Documents | Help]
+
+[Card: Progress — "2 of 5 tasks complete" + progress bar]
+
+[Tile: Day 1 Checklist]
+  [Row: checkbox — "Set up workstation and login"]
+  [Row: checkbox — "Meet your onboarding buddy"]
+  [Row: checkbox — "Complete first team check-in"]
+  [Row: checkbox — "Review Week 1 guide"]
+
+[Button: Continue to Week 1]
+```
+
+
+## Screen 2 — Key Documents (supports Task 2 — H2)
+
+```
+[Page title: Key Documents]
+[Side nav: Overview | Day 1 | Week 1 | Documents | Help]
+
+[Search input: "Search documents"]
+
+[List: Documents]
+  [Row: "Company Handbook" — Tag: "Updated 2 weeks ago"]
+  [Row: "Team Process Guide" — Tag: "Updated yesterday"]
+  [Row: "IT Setup Guide" — Tag: "Current version"]
+
+[Banner: "Always showing the latest version — no more guessing"]
+```
+
+
+## Screen 3 — Task Detail / Contextual Help (supports Task 3 — H3)
+
+```
+[Page title: Task — "Meet your onboarding buddy"]
+[Side nav: Overview | Day 1 | Week 1 | Documents | Help]
+
+[Tile: Task details]
+  [Text: description of the task]
+  [Tag: AI recommended] [Text: "why this is recommended"]
+
+[Card: Need a hand?]
+  [Text: "Who to ask" — label]
+  [Text: contact name]
+  [Text: contact email/channel]
+
+[Card: AI Assistant answer]
+  [Text: sample answer]
+  [Tag: "Source: Team Process Guide, updated yesterday"]
+  [Note: "For HR, salary, or disciplinary questions, this hands off to a person"]
+
+[Button: Mark complete]
+[Button: Back to checklist]
+```
+
+## Screen 4 — Week 1 Role-Specific View (supports Task 4 — H4)
+
+```
+[Page title: Week 1 — Your role]
+[Side nav: Overview | Day 1 | Week 1 | Documents | Help]
+
+[Banner: "Tailored to your role: [Role name]"]
+
+[Tile: Role-specific learning]
+  [Row: "Design system basics"]
+  [Row: "Accessibility guidelines"]
+  [Row: "Key stakeholders for your team"]
+
+[Button: Mark complete]
+```
