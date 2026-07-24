@@ -1,0 +1,37 @@
+Home / Onboarding Overview
+├── Day 1
+│   ├── Guided checklist (H1)
+│   └── Progress tracker (H1)
+│
+├── Week 1
+│   └── Role-specific tasks (H4)
+│
+├── My Tasks
+│   ├── Today
+│   ├── This week
+│   └── Completed
+│
+├── Key Documents
+│   └── Single source, version + last-updated shown (H2)
+│
+├── Help and Support
+│   ├── Contextual help per task — who to ask (H3)
+│   └── AI assistant — shows source + last-updated date, hands off to a
+│       human for HR/salary/disciplinary/legal (H3)
+│
+└── Progress Overview
+    └── Milestones across Day 1 → First week → First month (H1)
+
+## Why this structure (traceability)
+
+| IA Section | Traces back to |
+|---|---|
+| Day 1 checklist + progress tracker | H1 — overwhelming Day 1, no visibility of next step |
+| Key Documents (single source) | H2 — all 6 participants split search across 3+ systems |
+| Help and Support (contacts + AI) | H3 — didn't know who to ask; wanted source-cited, transparent AI |
+| Week 1 role-specific tasks | H4 — training felt generic, disconnected from actual role |
+
+## Mapped to the journey map stages
+- **Pre-arrival / Day 1** → Home, Day 1 section
+- **First week** → Week 1 section, Key Documents
+- **First month** → Progress Overview, ongoing Help and Support
